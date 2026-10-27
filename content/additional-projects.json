@@ -1,0 +1,53 @@
+[
+  {
+    "id":"summer", "file":"project-summer-gatherings.html", "category":"connection", "color":"orange", "number":"05",
+    "label":["GATHERINGS & BELONGING","相聚与连接"],
+    "title":["Leave some room for simply being together.","给单纯的相聚，留一点空间。"],
+    "shortTitle":["Summer evening gatherings","夏夜相聚"],
+    "summary":["Small summer gatherings in 2024 and 2025 offered a relaxed setting for conversation and time together.","2024与2025年的小型夏日聚会，为交流与相伴提供轻松的场景。"],
+    "question":["How can a community make space for informal connection?","社群如何为自然发生的交流，留出空间？"],
+    "why":["Alongside reading and structured discussions, Hotwind also made room for informal gatherings. The supplied photographs show people sharing a table, preparing the space and spending a summer evening together.","在阅读与主题讨论之外，热風也为轻松的相聚保留了空间。照片记录了大家布置现场、围桌交流、一起度过夏日夜晚的片段。"],
+    "actions":[
+      {"title":["Create a welcome","准备相聚的空间"],"text":["Welcome boards, a shared table and simple preparation gave the gathering a personal feel.","欢迎板、共享的餐桌与现场布置，让聚会带着大家共同准备的温度。"]},
+      {"title":["Make time to talk","留出交流的时间"],"text":["A relaxed setting allowed conversations to continue beyond a formal programme.","轻松的场景，让交流可以延续到正式活动之外。"]},
+      {"title":["Keep a shared memory","留下共同的记忆"],"text":["Photographs and event posters record the gatherings across two summers.","照片与活动海报，记录了两个夏天的相聚。"]}
+    ],
+    "role":["As founder and team lead, I helped sustain the community and its activities with the core team. These gatherings are shown as collective work.","作为创始人兼负责人，我与核心团队共同维系社群及活动；这里展示的是团队共同完成的相聚。"],
+    "reflection":["A community also grows through ordinary moments: preparing a space, sitting at the same table and having time for one another.","社群也在日常片段中生长：一起准备场地、围坐在同一张桌旁、把时间留给彼此。"],
+    "tags":[["Informal connection","轻松交流"],["Community life","社群生活"],["Shared experiences","共同经历"]]
+  },
+  {
+    "id":"parenting", "file":"project-family-dialogue.html", "category":"dialogue", "color":"purple", "number":"06",
+    "label":["FAMILY & OPEN DIALOGUE","家庭与开放对话"],
+    "title":["A place to talk about the words we grew up with.","聊聊那些，伴随我们长大的话语。"],
+    "shortTitle":["Family, education & growing up","原生家庭与打压式教育讨论"],
+    "summary":["An open salon invited reflection on discouraging education, family experience and personal growth.","通过开放沙龙，讨论打压式教育、家庭经历与个人成长。"],
+    "question":["How can personal experience become a thoughtful public conversation?","如何把个人经历，转化为认真而开放的讨论？"],
+    "why":["The original poster invited participants to discuss discouraging messages experienced while growing up. It brought a familiar personal topic into a shared space for reflection.","原始海报邀请参与者聊聊成长中经历的打压式教育，把熟悉而私人的议题，带入共同反思的空间。"],
+    "actions":[
+      {"title":["Start from experience","从经历出发"],"text":["The invitation centred on experiences of family and education.","以家庭与教育的真实经历作为讨论入口。"]},
+      {"title":["Open a conversation","打开讨论"],"text":["An open-discussion format gave participants room to consider different perspectives.","通过开放讨论，为不同观点保留表达空间。"]},
+      {"title":["Reflect on growth","回到成长"],"text":["The topic connected everyday language with questions about how young people grow.","把日常话语，连接到青年如何成长的问题。"]}
+    ],
+    "role":["I helped develop Hotwind’s programme of public discussions with the team. The original poster and supporting talk outline document this initiative.","我与团队共同推动热風的公共讨论活动，原始海报与讲演提纲记录了这次尝试。"],
+    "reflection":["Student-led discussion can offer space for expression and reflection. It should remain clear about the boundary between peer dialogue and professional psychological care.","学生主导的讨论可以提供表达与反思的空间，也需要明确朋辈对话与专业心理服务之间的边界。"],
+    "tags":[["Open discussion","开放讨论"],["Family experience","家庭经历"],["Reflective practice","反思实践"]]
+  },
+  {
+    "id":"research", "file":"project-listening.html", "category":"research", "color":"green", "number":"07",
+    "label":["LISTENING & PROGRAMME DESIGN","倾听与活动设计"],
+    "title":["Ask what people need before planning what comes next.","先听见需求，再设计下一步。"],
+    "shortTitle":["Listening to students","青年需求与调研设计"],
+    "summary":["Summer 2025 planning materials explored deeper social connection and multidimensional growth through questionnaire and interview design.","2025年夏季的调研设计材料，通过问卷与访谈构想，探索深度社交与多维度成长。"],
+    "question":["What would students want a community to help them explore?","学生希望一个社群，支持他们探索什么？"],
+    "why":["The planning brief asked whether campus activities supported meaningful connection and different kinds of personal growth. The aim was to let students’ needs inform future activities and the organisation’s structure.","调研提纲关注校园活动是否支持深度连接与不同维度的成长，希望从学生需求反向设计活动与组织运行框架。"],
+    "actions":[
+      {"title":["Define the questions","明确问题"],"text":["Identify two themes: meaningful social connection and multidimensional growth.","明确深度社交与多维度成长两个主题。"]},
+      {"title":["Explore ways to listen","设计倾听方式"],"text":["Prepare questionnaire ideas and plans for conversations with students from different disciplines and years.","准备问卷构想，并规划与不同年级、不同专业学生的交流。"]},
+      {"title":["Inform future design","为后续设计提供依据"],"text":["Use the questions to reconsider activities, participation and the community’s operating model.","用这些问题重新思考活动形式、参与方式与社群运行模式。"]}
+    ],
+    "role":["I helped frame the questions and connect the planning work to Hotwind’s development. The material is presented as exploratory planning rather than a completed research study.","我参与梳理问题，并把调研设计与热風的发展联系起来。这里呈现的是探索性规划，并非已完成的研究。"],
+    "reflection":["A useful question can change a programme. These materials do not establish an achieved sample size, validated scale or measured impact; draft literature-summary numbers are not reported as Hotwind’s findings.","一个好的问题，可能改变活动设计。这些材料不足以证明已完成的样本量、量表效度或实际影响；文献梳理草稿中的数字不作为热風的研究结果。"],
+    "tags":[["Needs exploration","需求探索"],["Questionnaire design","问卷设计"],["Work in development","探索中的工作"]]
+  }
+]

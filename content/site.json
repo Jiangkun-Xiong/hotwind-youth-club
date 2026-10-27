@@ -1,0 +1,96 @@
+{
+  "name": "Hotwind Youth Club",
+  "portfolio": "https://jiangkun-xiong.github.io/index.html",
+  "repository": "https://github.com/Jiangkun-Xiong/hotwind-youth-club",
+  "website": "https://jiangkun-xiong.github.io/hotwind-youth-club/",
+  "period": "2024–2025",
+  "tagline": ["A little curiosity. A lot of possibility.", "从一点好奇，走向更多可能。"],
+  "intro": ["A student-led community where reading opens conversations, people find their voice, and ideas become shared experiences.", "一个由青年共同建设的社群：让阅读开启对话，让每个人被听见，让想法成为共同经历。"],
+  "metrics": [
+    {"value": "30+", "label": ["activities organised", "场线上线下活动"], "note": ["Across reading, dialogue and health communication", "涵盖阅读、对话与健康传播"]},
+    {"value": "20", "label": ["weeks of shared reading", "周线上共读计划"], "note": ["A sustained space for learning together", "持续陪伴的朋辈学习空间"]},
+    {"value": "9", "label": ["people in the core team", "位核心团队成员"], "note": ["A small team with shared responsibilities", "共同分工、共同建设的小团队"]}
+  ],
+  "timeline": [
+    {"date": "2024.01", "title": ["Start with a reading salon", "从一场读书沙龙开始"], "text": ["I started Hotwind for university students who wanted a more open, sincere place to read, exchange ideas and connect beyond formal coursework.", "我发起热風，希望为大学生创造一个更开放、真诚的空间，在课程之外一起阅读、交换想法、建立连接。"], "lesson": ["Begin with a need you can see.", "从身边真实的需求出发。"]},
+    {"date": "2024.04", "title": ["Test a bigger idea", "试验更大的可能"], "text": ["An innovation project became a way to explore the relationship between reading, peer support and youth development.", "通过创新项目，我们开始探索阅读、朋辈支持与青年成长之间的联系。"], "lesson": ["An early idea is something to test.", "最初的想法，需要在实践中检验。"]},
+    {"date": "2024.07", "title": ["Reflect, then rebuild", "反思边界，重新搭建"], "text": ["Recognising the limits of student-led psychological support, we repositioned the community around dialogue, learning and public engagement, and rebuilt the team around this direction.", "认识到学生主导心理支持的专业边界后，我们把方向重新聚焦于对话、学习与公众参与，并围绕新的定位重建团队。"], "lesson": ["Listening also means changing direction.", "倾听，也意味着愿意调整方向。"]},
+    {"date": "2025", "title": ["Become a connector", "从组织活动，到连接青年"], "text": ["The community connected students with academic, cultural, public-interest and life-science communities across Chongqing and Wuhan.", "社群逐步连接重庆、武汉的学术、文化、公益与生命科学社群，为青年打开更多交流与探索的入口。"], "lesson": ["Build connections around shared questions.", "让共同关心的问题，成为连接的起点。"]}
+  ],
+  "projects": [
+    {
+      "id": "reading", "file": "project-reading.html", "category": "learning", "color": "green", "number": "01",
+      "label": ["READING & CONNECTION", "阅读与连接"],
+      "title": ["Read together. Think further.", "一起读，也一起想得更远。"],
+      "shortTitle": ["Reading & shared learning", "阅读与共读计划"],
+      "summary": ["A small reading salon and a 20-week online programme made shared learning a regular part of community life.", "从小型读书沙龙到20周线上共读，让共同学习成为社群生活的一部分。"],
+      "question": ["What if reading were a starting point for connection?", "如果阅读，也能成为人与人连接的起点？"],
+      "why": ["I wanted a place where students could exchange ideas beyond coursework and have conversations with enough time and trust to go deeper.", "我希望大家在课程之外也能交换想法，在有时间、有信任的交流中，把一个问题讨论得更深入。"],
+      "actions": [
+        {"title": ["Start small", "小规模开始"], "text": ["Reading salons created a manageable setting for students to share interpretations and questions.", "通过小型读书沙龙，让参与者分享理解、提出疑问。"]},
+        {"title": ["Keep showing up", "让交流持续发生"], "text": ["An online shared-reading programme continued for around 20 weeks.", "组织持续约20周的线上共读计划。"]},
+        {"title": ["Let ideas travel", "让想法延伸"], "text": ["Reading became an entry point to wider conversations about society, personal growth and public life.", "从书中的内容出发，延伸到社会、个人成长与公共生活。"]}
+      ],
+      "role": ["I founded the community and coordinated its development with the core team, helping turn informal interest into a recurring programme.", "我发起社群，与核心团队共同协调发展，把最初的阅读兴趣逐步转化为持续开展的活动。"],
+      "reflection": ["Continuity can matter as much as scale: a recurring invitation gives people more than one chance to take part.", "持续性与规模同样重要：一次次发出邀请，让参与者有机会慢慢融入。"],
+      "tags": [["Peer learning", "朋辈学习"], ["Community building", "社群建设"], ["Sustained participation", "持续参与"]]
+    },
+    {
+      "id": "tb", "file": "project-tb-roleplay.html", "category": "health", "color": "orange", "number": "02",
+      "label": ["PLAY & PUBLIC HEALTH", "游戏与公共健康"],
+      "title": ["A mystery that starts a conversation.", "让一个谜题，开启健康对话。"],
+      "shortTitle": ["Medical Mystery Night", "结核病医学剧本活动"],
+      "summary": ["An original medical mystery, a diagnostic social game and a short science talk offered an interactive way into tuberculosis awareness.", "将原创医学剧本、诊断主题社交游戏与简短科普结合，为结核病知识提供有参与感的入口。"],
+      "question": ["How could health education invite people to participate?", "怎样让健康科普，更愿意被主动参与？"],
+      "why": ["Tuberculosis is a medical topic, but the activity needed an accessible starting point for participants without specialist knowledge. A mystery provided a shared question to explore.", "结核病是医学议题，但活动需要让没有专业背景的参与者也能进入。一个共同破解的谜题，为探索提供了起点。"],
+      "actions": [
+        {"title": ["Enter the story", "进入故事"], "text": ["An original medical mystery introduced a shared problem through a fictional narrative.", "以原创医学剧本，用虚构故事引入共同的问题。"]},
+        {"title": ["Think together", "共同推理"], "text": ["A diagnostic-themed social game brought discussion and interaction into the activity.", "通过诊断主题的社交游戏，让讨论与互动融入活动。"]},
+        {"title": ["Connect with the science", "回到科学知识"], "text": ["A short educational session connected the experience with tuberculosis prevention knowledge.", "通过简短科普，把活动体验连接到结核病预防知识。"]}
+      ],
+      "role": ["I designed the interactive health-education event, bringing the story, game and educational session into one coherent experience with the team.", "我参与设计这场互动健康教育活动，与团队把故事、游戏和科普环节组织为连贯的体验。"],
+      "reflection": ["A familiar activity format can make a technical topic approachable. The event documents an approach to science communication; it was not an evaluation of clinical or educational effectiveness.", "熟悉的活动形式，可以让专业议题更容易接近。这场活动体现了健康传播的尝试，并未开展临床效果或教育效果评估。"],
+      "tags": [["Science communication", "科学传播"], ["Gamification", "游戏化体验"], ["Tuberculosis awareness", "结核病科普"]]
+    },
+    {
+      "id": "womens", "file": "project-womens-health.html", "category": "dialogue", "color": "pink", "number": "03",
+      "label": ["DIALOGUE & WOMEN’S HEALTH", "对话与女性健康"],
+      "title": ["Make room for difficult questions.", "为复杂的问题，留出对话空间。"],
+      "shortTitle": ["Pregnancy, risk & public dialogue", "妊娠、风险与公共讨论"],
+      "summary": ["A student discussion on how pregnancy-related risks, responsibilities and health knowledge should be communicated to the wider public.", "一场关于妊娠风险、责任与健康知识应如何向公众传播的学生讨论。"],
+      "question": ["What makes health information helpful, balanced and appropriate?", "什么样的健康信息，是有帮助、平衡且适当的？"],
+      "why": ["Communicating reproductive health involves both medical knowledge and questions about responsibility, audience and personal choice. The discussion made these tensions visible.", "生殖健康传播既涉及医学知识，也涉及责任、受众与个人选择。我们通过讨论，让这些需要权衡的问题被看见。"],
+      "actions": [
+        {"title": ["Who should know?", "向谁普及？"], "text": ["Should reproductive risks, responsibilities and possible consequences be discussed with all women, including students and those planning a pregnancy?", "是否应向全体女性，包括学生与准备生育的人群，普及生育的风险、责任与可能后果？"]},
+        {"title": ["How much is helpful?", "普及到何种程度？"], "text": ["When communicating pregnancy-related risks, how much information is helpful, balanced and appropriate?", "在传播妊娠风险时，多少信息是有帮助、平衡且适当的？"]},
+        {"title": ["Who shares responsibility?", "谁共同参与？"], "text": ["Should reproductive-health knowledge form part of public education for both women and men, especially students?", "生殖健康知识是否应成为面向女性和男性，尤其是学生的公共教育内容？"]}
+      ],
+      "role": ["I facilitated the student discussion, creating space to consider different perspectives on public health communication and medical ethics.", "我组织并推动学生讨论，让不同视角围绕健康传播与医学伦理展开交流。"],
+      "reflection": ["Facilitation means helping a group examine a question carefully, including where perspectives differ. These prompts are a record of the discussion, not medical advice or a consensus statement.", "推动讨论，需要帮助大家认真审视问题，也包括观点分歧之处。这里记录的是讨论议题，并非医学建议或共识声明。"],
+      "tags": [["Medical ethics", "医学伦理"], ["Public dialogue", "公共对话"], ["Women’s health", "女性健康"]]
+    },
+    {
+      "id": "peer", "file": "project-peer-voices.html", "category": "learning", "color": "purple", "number": "04",
+      "label": ["PEER VOICES & EXPRESSION", "朋辈声音与表达"],
+      "title": ["You don’t need to rank first to be heard.", "不必名列第一，也值得被听见。"],
+      "shortTitle": ["Peer Voices", "热風朋辈说"],
+      "summary": ["An open sharing platform for students’ learning strategies, social experiences and personal reflections on growth.", "一个开放的分享平台，承载学生的学习方法、社会经历与成长思考。"],
+      "question": ["Whose experience gets to count as something worth sharing?", "什么样的经历，才算值得被分享？"],
+      "why": ["A community can hear from a wider range of people when conventional measures of achievement are not the only invitation to speak.", "当成绩与传统成就不再是发言的唯一门槛，社群就有机会听见更多人的经验。"],
+      "actions": [
+        {"title": ["Share a learning strategy", "分享学习方法"], "text": ["Students had space to explain ways of learning through their own experience.", "为学生留出空间，讲述自己在学习中的实践与方法。"]},
+        {"title": ["Talk about real experience", "谈真实经历"], "text": ["Social experiences and personal reflections could become material for peer learning.", "让社会经历与个人反思，也能成为朋辈学习的内容。"]},
+        {"title": ["Broaden the invitation", "拓宽表达的入口"], "text": ["The platform welcomed perspectives beyond conventional measures of academic achievement.", "欢迎传统学业成绩之外的经验与视角。"]}
+      ],
+      "role": ["I created the platform with the community, making room for students to share what they had learned and how they were growing.", "我与社群共同搭建这个平台，为学生分享所学、讲述成长留出空间。"],
+      "reflection": ["Meaningful engagement can start with a simple invitation: your experience is worth listening to.", "有意义的参与，有时就从一个简单的邀请开始：你的经历，值得被倾听。"],
+      "tags": [["Self-expression", "自我表达"], ["Peer learning", "朋辈学习"], ["Youth development", "青年成长"]]
+    }
+  ],
+  "roles": [
+    {"title": ["Set the direction", "发起与定位"], "text": ["Founded Hotwind and helped its purpose evolve from a reading salon into a wider community for dialogue, learning and public engagement.", "从零发起热風，推动定位从读书沙龙逐步拓展到对话、学习与公众参与。"]},
+    {"title": ["Listen and adapt", "倾听与调整"], "text": ["Reflected on the limits of student-led psychological support and helped reposition the project around a more appropriate scope.", "反思学生主导心理支持的专业边界，推动项目聚焦更适当的参与范围。"]},
+    {"title": ["Bring the team together", "团队与协作"], "text": ["Led a nine-member core team, sharing responsibilities and coordinating activities and collaborators over time.", "带领9人核心团队，分配职责、协调活动与合作伙伴，让团队持续运转。"]},
+    {"title": ["Turn ideas into experiences", "策划与执行"], "text": ["Helped develop reading programmes, interactive health communication and open discussions, including the three featured cases.", "推动共读、互动健康传播与开放讨论等活动落地，包括网站展示的三个主题案例。"]}
+  ]
+}
