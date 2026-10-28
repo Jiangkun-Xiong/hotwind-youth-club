@@ -3,13 +3,13 @@
   'use strict';
   const $ = (s,r=document) => r.querySelector(s);
   const $$ = (s,r=document) => [...r.querySelectorAll(s)];
-  const media = window.HOTWIND_MEDIA || {};
+  const media = window.HOTWIND_MEDIA_RULES.normalise(window.HOTWIND_MEDIA);
   let lang = 'en', activeKey = '', returnFocus = null;
   const menu = $('#navigation'), menuButton = $('#menu-toggle'), dialog = $('#lightbox');
   try { const stored=localStorage.getItem('jx-language'); if(stored==='zh'||stored==='en') lang=stored; } catch (_) {}
   function textFor(value) { return value?.[lang] || value?.en || ''; }
   function escapeHtml(s) { return String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
-  function safeImagePath(s) { return typeof s==='string' && /^assets\/images\/[a-zA-Z0-9_./-]+$/.test(s) && !s.includes('..'); }
+  const safeImagePath = window.HOTWIND_MEDIA_RULES.safeImagePath;
   function hydrateImages() {
     $$('[data-photo]').forEach(img=>{
       const m=media[img.dataset.photo]; if(!m||!safeImagePath(m.src)) return;

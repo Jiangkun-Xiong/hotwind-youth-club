@@ -1,0 +1,48 @@
+{
+  "title": ["About these records", "关于这些记录"],
+  "intro": ["This is an archive of a student-led project and selected materials from 2024–2025.", "本网站是学生发起项目的回顾档案，展示2024–2025年的精选材料。"],
+  "sections": [
+    {
+      "title": ["What each record supports", "材料能够说明什么"],
+      "paragraphs": [
+        ["Activity photographs document selected moments. Posters, notices and plans describe topics and intended formats; they do not by themselves establish that every proposed segment took place. Exploratory research materials are labelled as planning.", "活动照片记录部分现场片段。海报、通知与方案介绍主题和拟议形式，本身不能证明所有设计环节均已实施；探索性调研材料按规划标注。"],
+        ["The totals of 30+ activities, around 20 weeks of shared reading and nine core team members come from the founder’s account. This site contains selected examples, not a complete activity or attendance register. The reading total is not a claim of 20 uninterrupted weeks or a measure of participant retention.", "30余场活动、累计约20周共读和9人核心团队来自创始人的情况说明。网站展示的是精选实例，并非完整活动或签到台账；累计周数不等于连续20周，也不代表参与者留存率。"],
+        ["Personal contributions are described separately from team work. The archive does not claim measured improvements in knowledge, behaviour, health or wellbeing.", "个人贡献与团队工作分别表述；档案不宣称已经测量出知识、行为、健康或心理状态的改善。"]
+      ]
+    },
+    {
+      "title": ["Language and activity names", "语言与活动名称"],
+      "paragraphs": [
+        ["English descriptions summarise the Chinese source materials. Descriptive English labels help readers navigate the site; they are not presented as original English event titles. Original wording remains visible in the archived posters.", "英文描述根据中文原始材料作简述。描述性英文名称用于帮助浏览，不作为活动原有的英文正式名称；原始用词保留在存档海报中。"],
+        ["The retrospective project overview includes later English presentation artwork alongside event photographs. The case pages use the original posters and plans for their descriptions.", "项目回顾总览同时含有活动照片及后制英文展示插画；各案例页的描述以原始海报与方案为依据。"]
+      ]
+    },
+    {
+      "title": ["Historical notices", "历史活动通知"],
+      "paragraphs": [
+        ["Dates, venue details, prices and QR codes in old notices belong to those historical materials. This website does not accept registrations, deposits or payments and does not verify the current destinations of old QR codes.", "旧通知中的日期、地点、价格与二维码属于当时的历史材料。本网站不接受报名、押金或付款，也不核验旧二维码当前指向的内容。"]
+      ]
+    },
+    {
+      "title": ["Health and discussion content", "健康与讨论内容"],
+      "paragraphs": [
+        ["The tuberculosis mystery uses a fictional story, including a fictional missing medicine. Its game format is not clinical diagnostic training. Discussion prompts about pregnancy and family upbringing are presented as topics, not medical conclusions or consensus statements.", "结核病剧本使用虚构故事，其中失窃的药物亦属虚构；游戏形式并非临床诊断训练。妊娠与家庭教育议题按讨论题目呈现，并非医学结论或共识声明。"],
+        ["This archive does not offer individual medical advice, diagnosis, counselling or psychological treatment.", "本档案不提供个体医学建议、诊断、心理咨询或心理治疗。"]
+      ]
+    },
+    {
+      "title": ["Images, names and attribution", "图像、名称与归属"],
+      "paragraphs": [
+        ["Photographs and posters are displayed as selected project materials. Their inclusion does not grant visitors permission to reuse them. Third-party marks and institutional names remain associated with their respective owners; their appearance records the source material and does not imply endorsement of this website.", "照片与海报作为精选项目材料展示，不因展示而授予访客再次使用的许可。第三方标识与机构名称的权利归属各自权利人；其出现记录原材料背景，不表示相关机构为本网站背书。"],
+        ["Corrections or rights-related concerns can be raised with the site publisher through the linked GitHub profile. Please do not post private personal information in public repository discussions.", "如需更正内容或提出权利相关问题，可通过链接的GitHub主页联系网站发布者；请勿在公开仓库讨论中提交私人信息。"]
+      ]
+    },
+    {
+      "title": ["What the site code stores", "网站代码存储什么"],
+      "paragraphs": [
+        ["The site has no registration, survey, payment or contact form. Its code stores the English/Chinese language choice locally in your browser so the preference can be shared with the portfolio site. It includes no analytics script or advertising embed.", "网站没有报名、问卷、付款或联系表单。代码仅在浏览器本地保存中英文选择，以便与个人主页共享语言偏好；不包含访问统计脚本或广告嵌入。"],
+        ["GitHub hosts the site and handles requests to its infrastructure separately. This description concerns the site code and is not a statement that the hosting provider keeps no access records.", "网站由GitHub托管，向其基础设施发出的请求由托管方另行处理。这里描述的是网站代码，并不表示托管方不保留访问记录。"]
+      ]
+    }
+  ]
+}

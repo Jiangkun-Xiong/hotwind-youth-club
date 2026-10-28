@@ -16,12 +16,12 @@ window.HOTWIND_MEDIA = {
     "group": "team",
     "gallery": true,
     "alt": {
-      "en": "The founding team. A shared idea, built together.",
-      "zh": "热風初创团队：让共同的想法，一起生长。"
+      "en": "Nine Hotwind team members beside a green reading-club display.",
+      "zh": "热風九位团队成员与绿色读书会展示板合影。"
     },
     "caption": {
-      "en": "The founding team. A shared idea, built together.",
-      "zh": "热風初创团队：让共同的想法，一起生长。"
+      "en": "Hotwind team photograph beside the reading-club display.",
+      "zh": "热風团队与读书会展示板的合影。"
     }
   },
   "overview": {
@@ -35,12 +35,12 @@ window.HOTWIND_MEDIA = {
     "group": "evidence",
     "gallery": true,
     "alt": {
-      "en": "Founder-provided overview of Hotwind’s development and selected cases. Includes illustrative case artwork, not event photographs.",
-      "zh": "创始人提供的发展历程与案例总览。内含案例示意图，示意图并非活动现场照片。"
+      "en": "Project overview combining text, activity photographs and later English case illustrations.",
+      "zh": "项目回顾总览，包含文字、活动照片与后制英文案例插画。"
     },
     "caption": {
-      "en": "Founder-provided overview of Hotwind’s development and selected cases. Includes illustrative case artwork, not event photographs.",
-      "zh": "创始人提供的发展历程与案例总览。内含案例示意图，示意图并非活动现场照片。"
+      "en": "Retrospective overview supplied by the founder. English headings in the later case illustrations are presentation labels; see the case pages for source-checked descriptions.",
+      "zh": "创始人提供的回顾总览。后制案例插画中的英文标题是展示性用语；活动介绍以各案例页核对后的描述为准。"
     }
   },
   "m31": {
@@ -131,12 +131,12 @@ window.HOTWIND_MEDIA = {
     "group": "reading",
     "gallery": true,
     "alt": {
-      "en": "A participant presents a story at the May 2025 session.",
-      "zh": "2025年5月活动中，参与者展示自己创作的故事。"
+      "en": "A participant speaking during the May 2025 collective-writing sharing session.",
+      "zh": "2025年5月集体创作分享环节，一位参与者正在发言。"
     },
     "caption": {
-      "en": "A participant presents a story at the May 2025 session.",
-      "zh": "2025年5月活动中，参与者展示自己创作的故事。"
+      "en": "Sharing during the May 2025 collective-writing session.",
+      "zh": "2025年5月长流计划的集体创作分享环节。"
     }
   },
   "m01": {
@@ -230,8 +230,8 @@ window.HOTWIND_MEDIA = {
       "zh": "共读计划说明，介绍阅读与分享形式。"
     },
     "caption": {
-      "en": "Programme guide describing the reading and sharing format.",
-      "zh": "共读计划说明，介绍阅读与分享形式。"
+      "en": "A four-week reading cycle described in the 2024 programme guide, from 10 September to 7 October.",
+      "zh": "2024年项目说明记录了一期四周共读，时间为9月10日至10月7日。"
     }
   },
   "m17": {
@@ -249,8 +249,8 @@ window.HOTWIND_MEDIA = {
       "zh": "2025年5月：在阅读中合成一本新书。"
     },
     "caption": {
-      "en": "May 2025: combining reading with making a new story.",
-      "zh": "2025年5月：在阅读中合成一本新书。"
+      "en": "The May reading-cycle poster describes reading check-ins and combining participants’ writing into a shared work.",
+      "zh": "五月共读海报介绍阅读打卡，以及汇集参与者文字、合成共同作品的形式。"
     }
   },
   "m18": {
@@ -365,8 +365,8 @@ window.HOTWIND_MEDIA = {
       "zh": "闪光点：热風朋辈说原始活动海报。"
     },
     "caption": {
-      "en": "Sparks: the original Peer Voices event poster.",
-      "zh": "闪光点：热風朋辈说原始活动海报。"
+      "en": "“闪光点” (Sparks): an original poster for 热風朋辈说, described here as Peer Voices.",
+      "zh": "“闪光点”：热風朋辈说的原始活动海报。"
     },
     "featured": true
   },
@@ -515,12 +515,12 @@ window.HOTWIND_MEDIA = {
     "group": "parenting",
     "gallery": true,
     "alt": {
-      "en": "Original poster inviting discussion of discouraging family education.",
-      "zh": "邀请大家讨论打压式教育的原始活动海报。"
+      "en": "Archived poster inviting discussion of belittling and discouraging messages in family upbringing.",
+      "zh": "邀请讨论家庭教育中贬低、打压式表达的历史活动海报。"
     },
     "caption": {
-      "en": "Original poster inviting discussion of discouraging family education.",
-      "zh": "邀请大家讨论打压式教育的原始活动海报。"
+      "en": "Archived poster for a discussion of belittling and discouraging messages in family upbringing.",
+      "zh": "讨论家庭教育中贬低、打压式表达的历史活动海报。"
     },
     "featured": true
   },
