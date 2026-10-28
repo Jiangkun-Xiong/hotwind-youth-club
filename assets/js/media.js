@@ -581,25 +581,6 @@ window.HOTWIND_MEDIA = {
       "zh": "热風八月活动总览，汇集不同主题的活动。"
     }
   },
-  "m20": {
-    "src": "assets/images/posters/november-programme.webp",
-    "thumb": "assets/images/posters/november-programme-thumb.webp",
-    "width": 1555,
-    "height": 2200,
-    "fit": "contain",
-    "position": "center",
-    "category": "poster",
-    "group": "posters",
-    "gallery": true,
-    "alt": {
-      "en": "A November programme with reading and public discussions.",
-      "zh": "包含阅读与公共讨论的十一月活动总览。"
-    },
-    "caption": {
-      "en": "A November programme with reading and public discussions.",
-      "zh": "包含阅读与公共讨论的十一月活动总览。"
-    }
-  },
   "m22": {
     "src": "assets/images/posters/cqmu-launch.webp",
     "thumb": "assets/images/posters/cqmu-launch-thumb.webp",

@@ -32,5 +32,4 @@
 | M32 | 4月 大学生创新大赛 (3).jpg | assets/images/story/innovation-presentation.webp | story |
 | M07 | 8月01暑期活动 (1).png | assets/images/posters/deeper-connections.webp | posters |
 | M14 | 八月海报.png | assets/images/posters/august-programme.webp | posters |
-| M20 | 总览.jpg | assets/images/posters/november-programme.webp | posters |
 | M22 | 热風登陆.png | assets/images/posters/cqmu-launch.webp | posters |
